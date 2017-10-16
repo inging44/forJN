@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="zh-CN">
+<head>
+<title>问卷</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+    <body>
+    	
+    	<div>
+    		1、问题一？
+    		<input type="radio" id="q1" value="是" name="q1"/>是
+    		<input type="radio" value="否" name="q1"/>否
+    	</div>
+    	<div>
+    		1、问题二？
+    		<input type="radio" id="q2" value="是" name="q2"/>是
+    		<input type="radio" value="否" name="q2"/>否
+    	</div>
+    	<div>
+    		1、问题三？
+    		<input type="radio" id="q3" value="是" name="q3"/>是
+    		<input type="radio" value="否" name="q3"/>否
+    	</div>
+    	<div>
+    		姓名：<input type="text" id="username" />
+    		电话：<input type="text" id="phone" />
+    	</div>
+    	<button onclick="submit()">提交</button>
+    	<div>
+    		<button onclick="show()">查看</button>
+    		<button id="clearBtn" style="display:none" onclick="clear()"></button>
+    		<div id="session">
+    		</div>
+    	</div>
+    </body>
+
+    <script>
+    	function submit(){
+    	
+    		question1 = document.getElementById('q1').checked?"是":"否";
+    		question2 = document.getElementById('q2').checked?"是":"否";
+    		question3 = document.getElementById('q3').checked?"是":"否";
+    		username = document.getElementById('username').value;
+    		phone = document.getElementById('phone').value;
+    		window.sessionStorage.setItem(new Date().toLocaleString(), question1+","+question2+","+question3+","+username+","+phone);
+    	}
+    	function show(){
+    		document.getElementById('clearBtn').style.display = "block";
+    		val = "";
+    		for(i=0;i<window.sessionStorage.length;i++){
+    			val += window.sessionStorage.key(i)+","+window.sessionStorage.getItem(window.sessionStorage.key(i))+"<br/>";
+    		}
+    		document.getElementById('session').innerHTML = val;
+    	}
+
+
+    </script>
+</html>
