@@ -1,0 +1,552 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"phone"
+			],
+			[
+				"qu",
+				"question3"
+			],
+			[
+				"question",
+				"question1"
+			],
+			[
+				"c",
+				"checked"
+			],
+			[
+				"se",
+				"sessionStorage"
+			],
+			[
+				"get",
+				"getElementByName"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"te",
+				"tel"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"a",
+				"avatar"
+			],
+			[
+				"_",
+				"$_	POST['…']"
+			],
+			[
+				"fg",
+				"fgets"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"H",
+				"href1"
+			],
+			[
+				"pre",
+				"preg_replace"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"M",
+				"Mli"
+			],
+			[
+				"arr",
+				"arrS"
+			],
+			[
+				"U",
+				"underscore"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"cl",
+				"clear"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: POST['…']"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"P",
+				"Package Control: Add Channel"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Project: Add Folder"
+			],
+			[
+				"show",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"ctags",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/django/HelloWorld/HelloWorld/urls.py",
+		"/F/django/HelloWorld/sign/controllers/views.py",
+		"/F/jiangxiaonan.html",
+		"/F/newClick.html",
+		"/F/django/HelloWorld/sign/templates/index.html",
+		"/F/django/HelloWorld/HelloWorld/settings.py",
+		"/F/django/HelloWorld/sign/views.py",
+		"/F/django/HelloWorld/sign/admin.py",
+		"/F/study/350/test/python/InterfaceTest/nanzi/clickHere.html",
+		"/F/study/350/test/python/InterfaceTest/nanzi/FileSaver.min.js",
+		"/D/huang/Sublime_Text_64bit/Sublime_Text/Data/Packages/Default/Preferences.sublime-settings",
+		"/F/study/350/test/python/InterfaceTest/nanzi/excelTry.html",
+		"/C/Users/hp/Desktop/scdtjcm.txt.dump",
+		"/C/Users/hp/Desktop/莎士比亚的辞海.txt.dump",
+		"/C/Users/hp/Desktop/scdtjcm.txt",
+		"/F/study/350/test/note.txt",
+		"/F/study/350/test/软件测试面试题汇总.txt",
+		"/C/Users/hp/Desktop/莎士比亚的辞海.txt",
+		"/C/Windows/System32/drivers/etc/HOSTS",
+		"/F/study/350/test/build.xml",
+		"/F/study/350/test/jenkins/run.bat",
+		"/F/study/350/test/a.doc",
+		"/D/huang/wamp/www/aboutUs/images/engine/playvideo.png",
+		"/F/study/350/web/html&css/learn/index.html",
+		"/D/huang/wamp/www/abc/app/test.php",
+		"/C/Users/hp/Desktop/aaa.html",
+		"/C/Users/hp/Desktop/jfinal.sql",
+		"/D/huang/wamp/vdaojia_new/1.php",
+		"/C/Users/hp/AppData/Local/Temp/360zip$Temp/360$0/README",
+		"/F/study/350/JAVAEE/swust-graduation/.settings/org.eclipse.wst.jsdt.ui.superType.name",
+		"/F/study/350/JAVAEE/swust-graduation/.externalToolBuilders/org.eclipse.wst.jsdt.core.javascriptValidator.launch",
+		"/F/study/350/JAVAEE/swust-graduation/.settings/.jsdtscope",
+		"/F/study/350/JAVAEE/swust-graduation/.settings/org.eclipse.core.resources.prefs",
+		"/F/study/350/JAVAEE/swust-graduation/.settings/org.eclipse.jdt.core.prefs",
+		"/F/study/350/JAVAEE/swust-graduation/.settings/org.eclipse.ltk.core.refactoring.prefs",
+		"/F/study/350/JAVAEE/swust-graduation/.settings/org.eclipse.wst.common.component",
+		"/F/study/350/JAVAEE/swust-graduation/.settings/org.eclipse.wst.common.project.facet.core.xml",
+		"/F/study/350/JAVAEE/swust-graduation/.settings/org.eclipse.wst.jsdt.ui.superType.container",
+		"/C/Users/hp/Desktop/edulabs.sql",
+		"/C/Users/hp/Desktop/jfinal_weixin.sql",
+		"/F/work/ngrok/windows_386/ngrok.cfg",
+		"/C/Users/hp/Desktop/swust-graduation.sql",
+		"/F/study/swust-graduation/.externalToolBuilders/org.eclipse.wst.jsdt.core.javascriptValidator.launch",
+		"/D/huang/wamp/www/aboutUs/index.htm",
+		"/F/study/swust-graduation/.project",
+		"/F/study/350/JAVAEE/swust-graduation/.project",
+		"/D/huang/wamp/www/aboutUs/images/engine/script.js",
+		"/F/study/graduation/swust-graduation/.project",
+		"/D/huang/wamp/www/aboutUs/images/engine/wowslider.js",
+		"/D/huang/wamp/www/aboutUs/images/engine/wowslider-controls.ttf",
+		"/D/huang/wamp/aboutUs/index.htm",
+		"/F/work/wechat/test.php",
+		"/C/Users/hp/Desktop/highcharts-lineData.html",
+		"/F/study/350/web/java/wechat.txt",
+		"/C/Users/hp/Desktop/ngrok/ngrok.cfg",
+		"/D/huang/wamp/www/check.php",
+		"/D/huang/wamp/www/check/check.php",
+		"/C/Users/hp/AppData/Local/Temp/360zip$Temp/360$0/wx_sample.php",
+		"/F/work/B-JUI/highcharts-lineData.html",
+		"/F/study/350/web/java/note.txt",
+		"/C/Users/hp/Desktop/h.html",
+		"/C/Users/hp/Desktop/qqqqq/.project",
+		"/C/Users/hp/Desktop/qqqqq/.classpath",
+		"/D/huang/wamp/www/abc/app/log&sign/regCheck.php",
+		"/D/huang/wamp/www/abc/app/log&sign/logincheck.php",
+		"/D/huang/wamp/www/abc/app/log&sign/show_message.html",
+		"/D/huang/wamp/www/abc/app/log&sign/login.html",
+		"/D/huang/wamp/www/abc/app/log&sign/reg.html",
+		"/D/huang/wamp/www/abc/app/log&sign/login.php",
+		"/D/huang/wamp/www/apps/upload/mobcent/app/controllers/UpdateController.php",
+		"/D/huang/wamp/www/apps/upload/mobcent/app/controllers/app/ServerUploadAction.php",
+		"/D/huang/wamp/www/apps/upload/source/plugin/oaapps/oaapps.inc.php",
+		"/D/huang/wamp/www/abc/app/log&sign/log.txt",
+		"/D/huang/wamp/www/abc/app/log&sign/reg.php",
+		"/C/Users/hp/Desktop/user.sql",
+		"/C/Users/hp/Desktop/logintest/login.html.dump",
+		"/C/Users/hp/Desktop/logintest/register.html.dump",
+		"/C/Users/hp/Desktop/logintest/regcheck.php.dump",
+		"/C/Users/hp/Desktop/logintest/logincheck.php.dump",
+		"/D/huang/wamp/www/abc/app/log&sign/sql/logincheck.php.dump",
+		"/C/Users/hp/Desktop/logintest/register.html",
+		"/D/huang/wamp/www/abc/app/log&sign/sql/logincheck.php",
+		"/D/huang/wamp/www/abc/app/log&sign/getone.php",
+		"/C/Users/hp/Desktop/logintest/regcheck.php",
+		"/C/Users/hp/Desktop/logintest/logincheck.php",
+		"/C/Users/hp/Desktop/logintest/login.html",
+		"/C/Users/hp/Desktop/discuz_plugin_tpgao_kaoshiedu.xml",
+		"/C/Users/hp/Desktop/discuz_plugin_tpgao_kaoshiedu_SC_UTF8.xml",
+		"/C/Users/hp/Desktop/xngs_jkt/1.xml",
+		"/C/Users/hp/Desktop/discuz_plugin_tpgao_kaoshiedu (1).xml",
+		"/D/huang/wamp/www/abc/app/log&sign/ValidateCode.class.php",
+		"/D/huang/wamp/www/abc/app/log&sign/style.css",
+		"/D/huang/wamp/www/abc/app/log&sign/captcha.php",
+		"/D/huang/wamp/www/abc/app/log&sign/students.php",
+		"/D/huang/新建文件夹/qq/738631563/FileRecv/11/index.html.dump",
+		"/D/huang/新建文件夹/qq/738631563/FileRecv/11/index.html",
+		"/D/huang/wamp/www/abc/app/login.html",
+		"/D/huang/wamp/www/abc/app/log&sign/login.html.dump",
+		"/D/huang/wamp/www/abc/app/reg.php",
+		"/D/huang/wamp/www/abc/app/login.php",
+		"/D/huang/wamp/www/abc/app/show_message.html",
+		"/D/huang/wamp/www/abc/app/reg.html",
+		"/D/huang/wamp/www/abc/app/log.txt",
+		"/D/huang/wamp/www/abc/app/res.txt",
+		"/D/huang/wamp/www/abc/app/log1.txt",
+		"/D/huang/wamp/www/abc/app/demo1.php",
+		"/D/huang/wamp/www/abc/app/show_img.php",
+		"/D/huang/wamp/www/abc/app/wenjian.php",
+		"/D/huang/wamp/www/abc/app/login_sql.php",
+		"/D/huang/wamp/www/abc/app/vote.html",
+		"/D/huang/wamp/www/abc/app/json1.php",
+		"/F/study/350/web/php/code/eg.php",
+		"/F/study/350/web/php/code/demo.php",
+		"/F/study/350/web/php/ppt/demos/实例36/36.php.dump",
+		"/D/huang/wamp/www/abc/app/JSON.php",
+		"/D/huang/wamp/www/abc/app/1.jpg",
+		"/F/study/350/web/php/ppt/demos/实例36/36.php",
+		"/F/study/350/web/php/ppt/demos/实例32/32.PHP.dump",
+		"/F/study/350/web/php/ppt/demos/实例33/33.PHP.dump",
+		"/F/study/350/web/php/ppt/demos/实例34/34.PHP.dump",
+		"/F/study/350/web/php/ppt/demos/实例35/35.PHP.dump",
+		"/F/study/350/web/php/ppt/demos/实例36/36.PHP.dump",
+		"/F/study/350/web/php/ppt/demos/实例36/36.PHP",
+		"/F/study/350/web/php/ppt/demos/实例35/35.PHP",
+		"/F/study/350/web/php/ppt/demos/实例34/34.PHP",
+		"/F/study/350/web/php/ppt/demos/实例33/33.PHP",
+		"/F/study/350/web/php/ppt/demos/实例32/32.PHP",
+		"/F/study/350/web/php/ppt/demos/实例25/25.PHP.dump"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"noBorder",
+			">\n",
+			"></",
+			"localDataHook",
+			"操",
+			"swust",
+			"utf-8",
+			"latin1",
+			"swust",
+			"if(",
+			"你已投票",
+			"投票",
+			"m",
+			"提交未成功",
+			");\n",
+			"captcha",
+			"param",
+			"createBg",
+			"font",
+			"createFont",
+			"color",
+			"#",
+			"login",
+			"background",
+			"<div class=\"pull-right fee_login\">\n		<a href=\"#\"><img src=\"./images/login.png\" /></a>\n		<a href=\"#\"><img src=\"./images/register.png\" /></a>\n		</div>",
+			";\n",
+			"div",
+			"sqBorder",
+			"聽",
+			"        \n",
+			"txt_display",
+			"1",
+			"fa_trade",
+			"ajax",
+			"ToggleLED",
+			"toggleSwitch",
+			"title",
+			"val2",
+			"val1",
+			"mm",
+			"ll",
+			"cal1",
+			">\n",
+			"    	\n",
+			">\n",
+			"    	\n",
+			"Demo5",
+			"mouseDown",
+			"onmousedown",
+			"DragObj",
+			"mouseUp",
+			"DragContainer4",
+			"DragContainer",
+			"DragContainer5",
+			"Demos",
+			"CreateDragContainer",
+			"DragContainer5",
+			"Demos[4]",
+			"nDemos",
+			"over",
+			"mouseover",
+			"onM",
+			"onmouse",
+			"DIV",
+			"drag_drop_spade.gif",
+			"timer.jpg",
+			"remove",
+			"mouseStop",
+			"\");\n",
+			"png",
+			"user",
+			"work",
+			"workor",
+			"worker",
+			"	\n",
+			"推送到修理工",
+			"${BASE_PATH}/dwz/",
+			"${BASE_PATH}",
+			"]);\n",
+			"content",
+			"diy_tongzhi",
+			"diy_tong",
+			"diy1",
+			"diy2",
+			"diy1",
+			"console.log",
+			"concole.log",
+			"g_ressources",
+			"Cocos2dGameContainer",
+			"var",
+			"            src: 'sprites/' Cocos2dGameContainer+ imgs[i] + '.png'\nCocos2dGameContainer",
+			"构造cocos2dApp继承至cc",
+			"Cocos2dGameContainer",
+			"getTexture",
+			"box",
+			"C4",
+			"bg",
+			"GameLayer",
+			"LayerColor",
+			"GameScene",
+			"myApp",
+			"appFilesappFiles\nmyApp",
+			"appFiles",
+			"g_ressources",
+			"TRIAL",
+			"SSTAR",
+			"DELT",
+			"DEL",
+			"DELTA",
+			"MAX_TRANS",
+			"main",
+			"n_next_states",
+			"n_ne",
+			"n_state",
+			"n_next_states",
+			"state_analized",
+			"state_anali",
+			"state_analized",
+			"n",
+			"n_sample",
+			"void",
+			"设置",
+			"d",
+			"addMarker",
+			"');\n",
+			"\">\n",
+			"ws_next",
+			"after"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 354.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 133.0,
+	"status_bar_visible": false
+}
